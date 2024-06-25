@@ -5,3 +5,6 @@ The notebook loads a galaxy catalog, selects starforming galaxies, computes the 
 It allows the user to define thresholds to select BGLT fields. 
 
 It includes a visualization of the selected fields and their galaxies.
+
+
+Data folder: https://drive.google.com/drive/folders/1M0o6B6UKuB0DE3b9mooW9IulC_U0rGev?usp=drive_link
